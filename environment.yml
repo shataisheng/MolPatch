@@ -10,6 +10,4 @@ dependencies:
   - networkx
   - biopython
   - pyyaml
-  - pip
-  - pip:
-    - msms
+  - scikit-image
